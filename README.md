@@ -1,1 +1,0 @@
-# API-Firebase-Standalone-App
